@@ -29,7 +29,7 @@ _Publication:_
 
 _Web application to visualize the operations performed by the students (and our analysis):_ 
 
-* [github.com/alinebrito/refgraph-fowler-study](https://github.com/alinebrito/refgraph-fowler-study)
+* [github.com/alinebrito/refgraph-fowler-study](https://alinebrito.github.io/refgraph-fowler-study)
 
 ## Aplication II: Using Refactoring Graphs to Document a Catalog of Composite Refactorings 
 
