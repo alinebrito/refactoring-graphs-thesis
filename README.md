@@ -3,9 +3,9 @@
 This repository includes scripts and data from PhD thesis _Refactoring Graphs: Reasoning about Refactoring over Time_, UFMG, 2023.
 
 
-## Empirical Study: Defining and Characterizing Refactoring Graphs
+## Defining and Characterizing Refactoring Graphs
 
-_Publication:_
+_Publications:_
 
 * Aline Brito, Andre Hora, Marco Tulio Valente. [Refactoring Graphs: Assessing Refactoring over Time](https://doi.org/10.1109/SANER48275.2020.9054864). In 27th International Conference on Software Analysis, Evolution and Reengineering (SANER), pages 367-377, 2020.
 
@@ -21,7 +21,7 @@ _Web application to visualize refactoring graphs:_
 * [refactoring-graph.github.io](https://refactoring-graph.github.io/)
 
 
-## Aplication I: Refactoring Comprehension Using Refactoring Graphs 
+## Refactoring Comprehension Using Refactoring Graphs
 
 _Publication:_
 
@@ -31,11 +31,11 @@ _Web application to visualize the operations performed by the students (and our 
 
 * [github.com/alinebrito/refgraph-fowler-study](https://alinebrito.github.io/refgraph-fowler-study)
 
-## Aplication II: Using Refactoring Graphs to Document a Catalog of Composite Refactorings 
+## A Catalog of Composite Refactorings
 
 _Publication:_
 
-* Aline Brito, Andre Hora, Marco Tulio Valente. [Towards a Catalog of Composite Refactorings](https://onlinelibrary.wiley.com/journal/20477481). Journal of Software: Evolution and Process, vol. 1, pages 1-43, 2023.
+* Aline Brito, Andre Hora, Marco Tulio Valente. [Towards a Catalog of Composite Refactorings](https://doi.org/10.1002/smr.2530). Journal of Software: Evolution and Process, vol. 1, pages 1-43, 2023.
 
 _Dataset:_
 
